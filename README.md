@@ -8,7 +8,7 @@ cmsenv
 
 git clone --branch CMSSW_13X_2023data git@github.com:your-username/LambdaC.git
 
-for me git clone --branch CMSSW_13X_2023data git@github.com:Dibbuph23d031/LambdaC.git
+for me git clone --branch [CMSSW_13X_2023data git@github.com:Dibbuph23d031/LambdaC.git](https://github.com/Dibbuph23d031/Ruis_Lc.git)
 
 scram b -j4
 
