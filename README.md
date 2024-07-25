@@ -1,4 +1,7 @@
-Add the data
+To setup the code:
+=====
+
+```
 
 cmsrel CMSSW_13_2_4
 
@@ -12,9 +15,13 @@ scram b -j4
 
 cd dfinder
 
-To run the data and MC
+```
+To run data:
+=====
+
+```
 
 cmsRun forest_miniAOD_112X_DATA_wDfinder.py 
 
 cmsRun forest_miniAOD_112X_MC_wDfinder.py 
-
+```
